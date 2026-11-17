@@ -251,8 +251,3 @@ Il a également permis de mettre en pratique les concepts fondamentaux de Delta 
 
 L'ensemble constitue une première base technique pour la mise en place de pipelines de données fiables, reproductibles et exploitables dans un environnement analytique.
 
----
-
-**Projet :** Alpenia Assurances  
-**Plateforme :** Databricks  
-**Technologies :** Python, PySpark, SQL, Delta Lake, Unity Catalog
